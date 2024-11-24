@@ -7,10 +7,12 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="linkedin.com/in/brandon-duclerc-tamwa-kamga-3546a2291/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://linkedin.com/in/brandon-duclerc-tamwa-kamga-3546a2291/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/24313916/brandoniscoding" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://whatsapp.com/channel/0029Va8yLe56rsQskYGPN13s" title="Whatsapp Channel"><img width="22" src="images/whatsapp.svg"> Whatsapp Channel</a></code>
+  <code><a href="https://whatsapp.com/channel/0029Va8yLe56rsQskYGPN13s" title="Whatsapp Channel"><img width="22" src="images/whatsapp.svg"> WhatsApp Channel</a></code>
   <code><a href="https://dev.to/brandoniscoding-dev" title="Dev.to Profile"><img width="22" src="images/dev-to.svg"> Dev.to</a></code>
+</h5>
+
 
 </h5>
 <br>
@@ -36,25 +38,21 @@
   <!-- Languages -->
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
   <code><img title="TypeScript" height="25" src="images/typescript.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Java" height="25" src="images/java.svg"></code>
   <code><img title="Python" height="25" src="images/python.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Spring Boot" height="25" src="images/spring.svg"></code>
+  <code><img title="Spring Boot" height="25" src="images/spring-boot.svg"></code>
   <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Express.js" height="25" src="images/express.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
   <code><img title="React" height="25" src="images/react.svg"></code>
   <code><img title="Next.js" height="25" src="images/nextjs.svg"></code>
   <code><img title="Angular" height="25" src="images/angularjs.png"></code>
-  <code><img title="React Native" height="25" src="images/react-native.svg"></code>
   <code><img title="Android" height="25" src="images/android.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Git" height="25" src="images/git.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="Postman" height="25" src="images/postman.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
 </p>
 
 <hr>
@@ -91,5 +89,5 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
-  <a href="https://github.com/brandoniscoding?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/brandoniscoding-dev?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
